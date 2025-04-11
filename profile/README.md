@@ -6,4 +6,4 @@ We are building a microservices-based trading system, focused on ai, reliability
 
 - [dev](https://github.com/mercaturae/dev)
 
-💬 Join the discussion in [Discussions](https://github.com/orgs/mercaturae/discussions)
+💬 Join the discussion in [discussions](https://github.com/orgs/mercaturae/discussions)
